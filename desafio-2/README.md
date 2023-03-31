@@ -13,7 +13,7 @@ mais claro;
 
 * Modificação dos nomes dos métodos method1, method2, method3, method4 e method5 para nomes mais descritivos, facilitando a compreensão do código;
 
-* Adição de tipagem de retorno em todos os métodos;
+* Adição de retorno em todos os métodos;
 
 ### Uso
 

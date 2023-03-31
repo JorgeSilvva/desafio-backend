@@ -12,8 +12,3 @@
 mais claro;
 
 * Modificação dos nomes dos métodos method1, method2, method3, method4 e method5 para nomes mais descritivos, facilitando a compreensão do código;
-
-### Uso
-
-Esse código pode ser utilizado na implementação de funcionalidades para a manipulação de listas num programa de análise de dados ou
-para processar strings em um sistema de gerenciamento de arquivos.

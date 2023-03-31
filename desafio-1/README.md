@@ -6,7 +6,7 @@ O objetivo deste código é ler um arquivo CSV com informações de filmes e ins
 
 O script lê as informações do arquivo CSV por meio da função read_csv_file() e retorna os dados como uma lista de listas. Em seguida,
 a função insert_data_into_mysql_db() é chamada via "thread", usando o módulo "concurrent.futures". Essa função conecta-se ao banco de dados MySQL
-e percorre as linhas da lista de dados. Para cada linha, o script extrai o ID, título, ano e gêneros do filme e, em seguida, 
+e percorre as linhas da lista. Para cada linha, o script extrai o ID, título, ano e gêneros do filme, em seguida, 
 insere ou atualiza esses dados na tabela "movies" no banco de dados MySQL. Se um registro com o mesmo ID já existir na tabela,
 os dados são atualizados; caso contrário, um novo registro é inserido.
 

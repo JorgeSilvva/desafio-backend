@@ -8,7 +8,7 @@ class MyClass1:
 
     # Inicializa as variáveis do objeto: uma lista de inteiros e uma string.
 
-    def init(self, var1: List[int], var2: str):
+    def __init__(self, var1: List[int], var2: str):
         self._var1 = var1
         self._var2 = var2
 

@@ -1,6 +1,6 @@
 # Desafios de backend
 
-## Desafio 1: Um programa para popular um banco de dados com milhares de filmes
+## Desafio 1: Programa para popular um banco de dados com milhares de filmes
 
 * A solução do desafio 1 pode ser vista [aqui](https://github.com/JorgeSilvva/desafio-backend/tree/main/desafio-1).
 

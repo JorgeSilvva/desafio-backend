@@ -4,6 +4,6 @@
 
 * A solução do desafio 1 pode ser vista [aqui](https://github.com/JorgeSilvva/desafio-backend/tree/main/desafio-1).
 
-## Desasfio 2: Implemente uma documentação.
+## Desafio 2: Implemente uma documentação.
 
 * A solução do desafio 2 pode ser vista [aqui](https://github.com/JorgeSilvva/desafio-backend/tree/main/desafio-2).

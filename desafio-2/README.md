@@ -6,14 +6,12 @@
 
 ### Principais mudanças realizadas na refatoração:
 
-*  Alteração do nome das variáveis privadas, seguindo a convenção do PEP 8;
+*  Alteração do nome de variáveis, seguindo a convenção do PEP 8;
 
 * Transformação das funções get_var1, set_var1, get_var2 e set_var2 em propriedades para tornar o acesso aos atributos
 mais claro;
 
 * Modificação dos nomes dos métodos method1, method2, method3, method4 e method5 para nomes mais descritivos, facilitando a compreensão do código;
-
-* Adição de retorno em todos os métodos;
 
 ### Uso
 

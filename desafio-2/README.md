@@ -6,7 +6,7 @@
 
 ### Principais mudanças realizadas na refatoração:
 
-*  Alteração do nome de variáveis, seguindo a convenção do PEP 8;
+*  Alteração do nome das variáveis, seguindo a convenção do PEP 8;
 
 * Transformação das funções get_var1, set_var1, get_var2 e set_var2 em propriedades para tornar o acesso aos atributos
 mais claro;

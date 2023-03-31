@@ -12,35 +12,35 @@ class MyClass1:
         self._var1 = var1
         self._var2 = var2
 
-# Definindo um getter para var1.
+# Define um getter para var1.
 
 
 @property
 def var1(self) -> List[int]:
     return self._var1
 
-# Definindo um setter para var1
+# Define um setter para var1
 
 
 @var1.setter
 def var1(self, value: List[int]) -> None:
     self._var1 = value
 
-# Definindo um getter para var2
+# Define um getter para var2
 
 
 @property
 def var2(self) -> str:
     return self._var2
 
-# Definindo um setter para var2
+# Define um setter para var2
 
 
 @var2.setter
 def var2(self, value: str) -> None:
     self._var2 = value
 
-# Verifica se há elementos duplicados na lista de inteiros _var1.
+# Verifica se existem elementos duplicados na lista de inteiros _var1.
 
 
 def has_duplicates(self) -> bool:
@@ -93,7 +93,7 @@ def rotate_list(self, k: int) -> List[int]:
 def reverse_string(self) -> str:
     return self._var2[::-1]
 
-# Encontra a mediana de duas listas x e y.
+# Encontra a mediana de duas listas de inteiros x e y.
 
 
 @staticmethod

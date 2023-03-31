@@ -100,8 +100,8 @@ def main():
     data = read_csv_file(file_path)
 
     # Define as informações de autenticação para conectar ao banco de dados MySQL
-    user = 'root'  # Especifice seu usuario
-    password = 'root@2022'  # Especifique a sua senha
+    user = 'seu_usuario'  # Especifice seu usuario
+    password = 'sua_senha'  # Especifique a sua senha
     host = 'localhost'  # Especifique o seu host
     database = 'filmes'  # Mesmo nome usado em db.sql
 

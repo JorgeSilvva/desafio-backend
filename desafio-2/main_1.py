@@ -43,7 +43,7 @@ class MyClass1:
                 return True
         return False
 
-    # Método que recebe um inteiro target como entrada e retorna uma lista de dois inteiros.
+    # Recebe um inteiro target como entrada e retorna uma lista de dois inteiros.
     # Procura dois inteiros na lista __var1 que somam target e retorna seus índices.
 
     def method2(self, target: int) -> List[int]:
@@ -56,7 +56,7 @@ class MyClass1:
             else:
                 seen[value] = i
 
-    # Método que recebe um inteiro k como entrada e rotaciona a lista __var1 k vezes para a direita.
+    # Recebe um inteiro k como entrada e rotaciona a lista __var1 k vezes para a direita.
 
     def method3(self, k: int) -> List[int]:
         nums = self.__var1.copy()
@@ -78,12 +78,12 @@ class MyClass1:
             i += 1
         return nums
 
-    # Método que retorna o reverso da string __var2.
+    # Retorna o reverso da string __var2.
 
     def method4(self) -> str:
         return self.__var2[::-1]
 
-    # Método que recebe duas listas de inteiros e retorna a mediana da lista combinada.
+    # Recebe duas listas de inteiros e retorna a mediana da lista combinada.
 
     @staticmethod
     def method5(x: List[int], y: List[int]) -> int:

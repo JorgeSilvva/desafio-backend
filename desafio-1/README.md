@@ -25,7 +25,7 @@ As dependências constam no arquivo ["requirements.txt"](https://github.com/Jorg
 
 ### Implementação do Banco de Dados
 
-Para implementar o banco de dados basta executar a query com o código SQL exposto no arquivo ["db.sql"](https://github.com/JorgeSilvva/desafio-backend/blob/main/desafio-1/requirements.txt), criando o banco de dados "filmes" e a tabela "movies".
+Para implementar o banco de dados basta executar a query com o código SQL exposto no arquivo ["db.sql"](https://github.com/jorgesilvva/desafio-backend/blob/main/desafio-1/db.sql), criando o banco de dados "filmes" e a tabela "movies".
 
 ### Como usar
 
